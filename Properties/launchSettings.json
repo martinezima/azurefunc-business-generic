@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "App_Business_Generic": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7123",
+      "launchBrowser": false
+    }
+  }
+}
